@@ -1,4 +1,4 @@
-### Olá! Eu sou a Aline Guidoni👋
+### Olá! Eu sou a Aline Guidoni, estududante de prigramação!
 
 - 🌱 Estou faznedo faculdade de Análise e desenvolvimento de sistemas, e fazendo cursos livres de Front-end!
 - 😄 Pronouns: ela/dela
