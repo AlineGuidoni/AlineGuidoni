@@ -21,7 +21,7 @@
   
 <div>
   <a href ="mailto:alineguidonini@hotmail.com"><img src=https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aline-guidoni" target="_blank"><img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aline-guidoni" target="_blank"><img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white target="_blank"></a>
 </div>  
   
   
